@@ -1,6 +1,6 @@
 # Wolfgang Romanowski
 
-Currently a third-year student at South East Technological University, pursuing a B.A. in Applied Computing.
+Currently a fourth-year student at South East Technological University, pursuing a B.A. in Applied Computing.
 RedHat Intern
 ---
 
