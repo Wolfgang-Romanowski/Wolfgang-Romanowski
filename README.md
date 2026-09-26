@@ -1,12 +1,9 @@
 # Wolfgang Romanowski
 
-Currently a fourth-year student at South East Technological University, pursuing a B.A. in Applied Computing.
-RedHat Intern
+Newgrad CS Major
 ---
 
-## 🛠 Skills & Technologies
 
-I try to learn a large number of languages and tools:
 
 ### Programming Languages
 
@@ -15,7 +12,6 @@ I try to learn a large number of languages and tools:
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org) 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Frameworks & Libraries
 
@@ -52,14 +48,14 @@ I try to learn a large number of languages and tools:
 [![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org) 
 [![Mojo](https://img.shields.io/badge/Mojo-E8710A?style=for-the-badge&logo=mojo&logoColor=white)](https://www.modular.com/mojo)
 
-🎨 Learning Graphical Programming & Shaders
+### Learning Graphical Programming & Shaders
 
 - [The Book of Shaders](https://thebookofshaders.com)
 - [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003)
 
 ---
 
-## 🧑‍💻 Contact Me
+## Contact
 
 Feel free to reach out! I'll try to respond ASAP.
 
